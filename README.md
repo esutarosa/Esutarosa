@@ -4,6 +4,7 @@ There isn't really a story to tell. I write code and try technologies what inter
 - Full stack web development - frontend (Next.js, React, Vue.js, JavaScript, TypeScript, ES6+) backend (JS/TS node.js, Rust)
 - IDEs - Visual Studio Code, LazyVim
 - Operating systems - Windows 10, Linux (Ubuntu, Fedora, Arch), macOS
+- My languages for work and personal projects: JavaScript, TypeScript, Rust, Go, C
 #### My current interest:
 - Learning Rust language
 - Learning a network at lower level
