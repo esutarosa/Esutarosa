@@ -2,10 +2,9 @@ There isn't really a story to tell. I write code and try technologies what inter
 
 #### My skills:
 - Full stack web development - Next.js, React, Vue.js, JavaScript, TypeScript, Rust/Go
-- IDEs - Visual Studio Code, LazyVim
-- Operating systems - Windows 10, Linux (Ubuntu, Fedora, Arch), macOS
+- IDEs - Visual Studio Code, **LazyVim**
+- Operating systems - Windows 10, **Linux** (Ubuntu, Fedora, Arch), macOS
 #### My current interest:
 - Learning Rust language
 - Learning a network at lower level
 - Learning cross platform desktop development
-- Learning Dart (Flutter) for mobile development
