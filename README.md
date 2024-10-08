@@ -3,7 +3,7 @@ There isn't really a story to tell. I write code and try technologies what inter
 #### My skills:
 - Full stack web development - Next.js, React, Vue.js, JavaScript, TypeScript, Rust/Go
 - IDEs - Visual Studio Code, **Vim(LazyVim)**
-- Operating systems - Windows 10, **Linux** (Ubuntu, Fedora, Arch), macOS
+- Operating systems - Windows 10, **Linux** (Ubuntu, Fedora, **Arch**), macOS
 #### My current interest:
 - Learning Rust language
 - Learning a network at lower level
