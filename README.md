@@ -1,3 +1,9 @@
 There isn't really a story to tell. I write code and try technologies what interest me. For now this page serves more as my collection of private projects and, in a way, reflects my activity
 
-[![GitHub Streak](https://github-readme-streak-stats-c6n1foonv-esu.vercel.app?user=Esutarosa&theme=apprentice)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-c6n1foonv-esu.vercel.app?user=esutarosa&theme=apprentice" alt="GitHub Streak" />
+  </a>
+</p>
+
+<a href="https://git.io/streak-stats"></a>
