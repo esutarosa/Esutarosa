@@ -2,7 +2,7 @@ There isn't really a story to tell. I write code and try technologies what inter
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-c6n1foonv-esu.vercel.app?user=esutarosa&theme=apprentice" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats-6w7x525tk-esu.vercel.app?user=esutarosa" alt="GitHub Streak" />
   </a>
 </p>
 
