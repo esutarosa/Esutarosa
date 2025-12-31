@@ -7,3 +7,14 @@ There isn't really a story to tell. I write code and try technologies what inter
 </p>
 
 <a href="https://git.io/streak-stats"></a>
+
+<details>
+  <summary>GitHub stats</summary>
+
+  <br />
+
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/esutarosa/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+    <img src="https://raw.githubusercontent.com/esutarosa/github-stats/master/generated/overview.svg#gh-light-mode-only" />
+  </p>
+</details>
