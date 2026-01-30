@@ -15,6 +15,6 @@ There isn't really a story to tell. I write code and try technologies what inter
 
   <p align="center">
     <img src="https://raw.githubusercontent.com/esutarosa/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
-    <img src="https://raw.githubusercontent.com/esutarosa/github-stats/master/generated/overview.svg#gh-light-mode-only" />
+    <img src="https://raw.githubusercontent.com/esutarosa/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
   </p>
 </details>
